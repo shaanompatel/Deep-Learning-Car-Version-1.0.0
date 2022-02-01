@@ -11,4 +11,4 @@ In order to switch between these two, just change a line of code in the DeepPiCa
 
 This has been tested on a 64 bit Raspberry Pi using Linux. 
 
-Depending on your hardware, a different version of Tensorflow will have to be installed. The version attached only works for arm64 systems. 
+Depending on your hardware, a different version of Tensorflow will have to be installed. The version attached only works for arm64 systems. Different wheel files can be obtained online
